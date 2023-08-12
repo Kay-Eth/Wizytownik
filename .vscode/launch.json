@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch as Java Application",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "main.Main",
+            "args": "",
+            "projectName": "Wizytownik"
+        }
+    ]
+}

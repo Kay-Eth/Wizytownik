@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "Wizytownik",
+                "projectName": "Wizytownik",
+                "workingDirectory": "c:\\DEV\\ECLIPSE\\Wizytownik",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "Wizytownik",
+                "projectName": "Wizytownik",
+                "workingDirectory": "c:\\DEV\\ECLIPSE\\Wizytownik",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
